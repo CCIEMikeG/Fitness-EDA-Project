@@ -61,7 +61,7 @@ https://www.kaggle.com/datasets/arashnic/fitbit/data?select=mturkfitbit_export_4
 
 ## Results
 
-The analysis highlights significant trends in activity level and sleep level; supported by visualizations and statistical insights.
+The analysis highlights significant trends in activity level and sleep level; supported by visualizations and statistical insights.  Activity levels decrease after approximately a month.  This results in a prediction model where activity levels continue to decrease.  The amount of sleep is not correlated with the activity level.  Likewise, the amount of deep sleep is not correlated with the activity level.
 
 ---
 
